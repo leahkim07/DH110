@@ -70,41 +70,41 @@ Heuristic Evaluation of Dolmetsch Online <h4>
   Heuristic Evaluation of Teoria <h4>
   
   1. Visibility of system status <h5>
-  Evaluation: <br><br>
-  Severity Rating:  <br><br>
+  Evaluation: You can track where you are in a video tutorial, as you can see where you are in a video on YouTube. With exercises, you can see numerically how far along you have gone. However these are the only main visibility features, and they can be expaneded upon. I would add a progress bar for both tutorials and exercises that allows for better visual cues of progress. <br><br>
+  Severity Rating: 2 <br><br>
   
   2. Match between system and the real world <h5>
-  Evaluation: <br><br>
-  Severity Rating:  <br><br>
+  Evaluation: The language used is very user-friendly at introducing musical terms to someone without background knowledge. The features on the website are also all relevant. <br><br>
+  Severity Rating: 1 <br><br>
   
   3. User control and freedom <h5>
-   Evaluation: <br><br>
-  Severity Rating:  <br><br>
+   Evaluation: Undoing and redoing actions are difficult in the exercise setting because you are stuck in the exercise once started. In tutorials, it is easier to drag back and forth to watch certain parts of videos again or skip through if necessary. For exercises, I would add a pause button or something that helps save progress so you are not stuck there after opening. <br><br>
+  Severity Rating: 2 <br><br>
   
   4. Consistency and standards <h5>
-  Evaluation: <br><br>
-  Severity Rating:  <br><br>
+  Evaluation: The website is extremely consistent all throughout. Navigating through various pages, everything remained the same format. Icons remained consistent as well. <br><br>
+  Severity Rating: 1 <br><br>
   
   5. Error prevention <h5>
-  Evaluation: <br><br>
-  Severity Rating:  <br><br>
+  Evaluation: In terms of error prevention, this can be seen when you choose an incorrect answer for a question, and there is a message that explains why it is wrong and the right answer. This is pretty well done. <br><br>
+  Severity Rating: 1 <br><br>
   
   6. Recognition rather than recall <h5>
-  Evaluation:  <br><br>
-  Severity Rating:  <br><br>
+  Evaluation: There is very good recognition on the site as text or boxes have a different color when clicked on or selected, so users can tell clearly what they have chosen. <br><br>
+  Severity Rating: 1 <br><br>
   
   7. Flexibility and efficiency of use <h5>
-  Evaluation: <br><br>
-  Severity Rating:  <br><br>
+  Evaluation: Abbrevations, function keys, and hidden commands are not used on this website, but I don't think it is absolutely necessary for its purpose. However, there can be added features like shortcuts to help navigate different pages while scrolling and flipping through tabs, like return to top, return to home, etc. <br><br>
+  Severity Rating: 2 <br><br>
   
   8. Aesthetic and minimalist design <h5>
-  Evaluation: <br><br>
-  Severity Rating:  <br><br>
+  Evaluation: The design of this website is very sleek and organized, while visually pleasing. Nothing needs to be improved upon. <br><br>
+  Severity Rating: 1 <br><br>
   
   9. Help users recognize, diagnose, and recover from errors <h5>
-  Evaluation: <br><br>
-  Severity Rating:  <br><br>
+  Evaluation: Like mentioned previously, error messages allows for users to evaluate why the error was made and provides an explanation to the error as well. <br><br>
+  Severity Rating: 1 <br><br>
   
   10. Help and documentation <h5>
-  Evaluation: <br><br>
+  Evaluation: Teoria provides a help page which has frequently asked questions and how to use the website and about the website as well. All of these are organized for the user to navigate. <br><br>
   Severity Rating: 1 <br><br>
