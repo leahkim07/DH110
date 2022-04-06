@@ -38,7 +38,7 @@
   
   <h4> 6. Recognition rather than recall </h4>
   Definition: Maintain task-relevant information in the display while users explore the interface to reduce cognitive stress. Because short-term memory is limited, designers should make sure that users can rely on recognition rather than memorizing facts throughout the dialogue. Recognizing something is always easier than recalling it because recognition entails detecting signs that allow us to dig into our extensive memory and bring up relevant knowledge. <br><br>
-  Evaluation: It is hard to tell where you have been on the website since there is no way of telling with visual cues. However, there are slight indicators like hovering over text that changes colors, which does help. Besides this, it is very difficult to track where you have been on the website and where you are going. I would address this by adding more hovering and clicking features to indicate previous visit or adding a note of last visit.
+  Evaluation: It is hard to tell where you have been on the website since there is no way of telling with visual cues. However, there are slight indicators like hovering over text that changes colors, which does help. Besides this, it is very difficult to track where you have been on the website and where you are going. I would address this by adding more hovering and clicking features to indicate previous visit or adding a note of last visit. <br><br>
   Severity Rating: 2 <br>
   
   <h4> 7. Flexibility and efficiency of use </h4>
