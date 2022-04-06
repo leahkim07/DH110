@@ -5,7 +5,7 @@ Improving User Experiences for Music Learning <h1>
  <hr>
   
  Website 1: Dolmetsch Online <h3>
-  <img width="1440" alt="Screen Shot 2022-04-06 at 9 46 26 AM" src="https://user-images.githubusercontent.com/86642199/162025921-53145439-280e-4f20-bafb- 0a54bfa72cfb.png"> <br>
+  <img src="https://leahkim07.github.io/DH110/images/Dolmetsch Screenshot.png" width="200" alt="This is the website screenshot of Dolmetsch Online."> <br>
   URL: https://www.dolmetsch.com/index.htm <br>
   <p> This website was created for music reading learning purposes. It has sheet music, a music dictionary, music theory, and more to allow for someone to teach themselves about what they want to know about music. My evaluation of this website is that it is very poor because the text is small, the layout is disorganzied, and the colors are not visually pleasing. You also need to do some clicking around before you can actually get to what you are looking for, so it is not easy to use as well. I believe this website needs substantial improvements for a middle-aged or older man to use. </p>
   
