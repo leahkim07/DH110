@@ -50,7 +50,7 @@ Type why and how here
 
 #### 3. Joe's Scenario - The Skills Tester
  
- > *The skills tester will help people with previous music knowledge and expereince understand what are their needs and place them in the appropriate level of study. *
+ > *The skills tester will help people with previous music knowledge and expereince understand what are their needs and place them in the appropriate level of study.*
 
 Type why and how here
 
