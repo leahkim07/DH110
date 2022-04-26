@@ -30,8 +30,6 @@ Using information from previous testing, I plan to implement 3 design features t
 
 ### Scenarios & Journey Map
 
-While all functions I plan to improve in my project can be used by each personal to reach their goals, I have prefered to create a scenario for each function that highighted how it could help one of the persona at least achieve their goals and meet their needs. 
-
 #### 1. Mark's Scenario - The Progress Tracker
 
 > *This progress tracker allows for music learners to keep track of their learning and progress by mapping out important topics and including subtopics with a progress bar to see how far along they have come.*
