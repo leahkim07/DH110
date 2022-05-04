@@ -27,10 +27,10 @@ Here is more information on the [personas and scenarios](https://leahkim07.githu
 3. Skills Tester
 
 ## Wireframes and Wireflows
-![Lofi Prototype 1](Lofi_Prototype_1.jpg)
+![wireframes](wireframes.png)
 
 ## Low-Fidelity Prototype Testing
-![Lofi Prototype Test 1](Lofi_Prototype_Test_1.jpg)
+![wireflows](wireflows.png)
 
 ### Reflection
 I had fun creating and drawing the wireframes and wireflows, as well as designing everything to what I wanted it to be. When I want to add some features, I researched online to see similar examples so I can mirror it. It was difficult to create a cohesive story with these wireframes and wireflows, but I had a great learning experience from it. From testing the prototype, I found a lot of things that I needed to add in the wireframes. In the future, I would make a flow chart as a thinking map, so I can visualize the entire sequence in order to include all necessary elements. For this prototype, I would need to add all the features and draw the wireframes for all the other features I included but were not going to be tested. I guided the participant into following one exact sequence only for simplicity sakes, so I can realize the importance of drawing all the wireframes of the app that way they can have a near complete experience. I also would have the participant draw the flow and mark the errors on the actual wireframe itself instead of doing it for them to create a more holistic testing experience. 
