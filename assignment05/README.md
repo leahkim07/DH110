@@ -27,7 +27,7 @@ Here is more information on the [personas and scenarios](https://leahkim07.githu
 3. Skills Tester
 
 ## Wireframes and Wireflows
-![wireframes](wireframes.pdf)
+![wireframes](wireframes.jpg)
 
 ## Low-Fidelity Prototype Testing
 ![wireflows](wireflows.jpg)
