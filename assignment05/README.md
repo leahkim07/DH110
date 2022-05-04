@@ -35,4 +35,21 @@ Here is more information on the [personas and scenarios](https://leahkim07.githu
 ![prototype2](prototype2.jpg)
 
 ### Reflection
-I had fun creating and drawing the wireframes and wireflows, as well as designing everything to what I wanted it to be. When I want to add some features, I researched online to see similar examples so I can mirror it. It was difficult to create a cohesive story with these wireframes and wireflows, but I had a great learning experience from it. From testing the prototype, I found a lot of things that I needed to add in the wireframes. In the future, I would make a flow chart as a thinking map, so I can visualize the entire sequence in order to include all necessary elements. For this prototype, I would need to add all the features and draw the wireframes for all the other features I included but were not going to be tested. I guided the participant into following one exact sequence only for simplicity sakes, so I can realize the importance of drawing all the wireframes of the app that way they can have a near complete experience. I also would have the participant draw the flow and mark the errors on the actual wireframe itself instead of doing it for them to create a more holistic testing experience. 
+I had fun creating and drawing the wireframes and wireflows, as well as designing everything to what I wanted it to be. When I want to add some features, I researched online to see similar examples so I can mirror it. It was difficult to create a cohesive story with these wireframes and wireflows, but I had a great learning experience from it. From testing the prototype, I found a lot of things that I needed to add in the wireframes. This includes more visibility in necessary buttons to lead the user in the right direction (track your progress, boxing buttons, back, page tracker, etc.) as well as renaming buttons (go back to try again). In the future, I would make a flow chart as a thinking map, so I can visualize the entire sequence in order to include all necessary elements. For this prototype, I added some of the missing features and drew the wireframes I included but were not going to be tested. I guided the participant into following a clear sequence only for simplicity sakes, so I can realize the importance of drawing all the wireframes of the app that way they can have a near complete experience. I also would have the participant draw the flow and mark the errors on the actual wireframe itself instead of doing it for them to create a more holistic testing experience.
+#### Task 1
+* Make search bar more clear for users
+* Make clickable items more obvious
+* Use arrows or visuals to guide user to correct buttons
+* Make play button more obvious to click
+* Make track progress more obvious
+* Rename "go back" to "try again"
+
+#### Task 2
+* Make search bar more clear for users
+* Make filter function more obvious
+* Add a filter reset button
+
+#### Task 3
+* Make search bar more clear for users
+* Add skills tester shortcut
+* Add back button and page tracker
