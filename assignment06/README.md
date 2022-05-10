@@ -10,21 +10,21 @@ The goal of the project is to redesign the current website for Dolmetsch Online 
 * [Impression Test]()
 
 ## Chosen Wireframe
-![Landing Page]()
+![Landing Page](chosenwireframe.png)
 
 ## Screen Design
 
 ### Layout Design:
-![Layout]()
+![Layout](layout.png)
 
 ### Typographic Variations:
-![Typographic Variations]()
+![Typographic Variations](type.png)
 
 ### Shape Variations:
-![Shape Variations]()
+![Shape Variations](shape.png)
 
 ### Color Variations:
-![Color Variations]()
+![Color Variations](color.png)
 
 
 ## Impression Test:
@@ -42,32 +42,32 @@ Here is the link to the [impression testing](). For this round of testing, I gav
 > The user indicated 
 
 **Color Scheme:**
-> The user preferred the light mode design over the dark mode. He stated that he was more used to using light mode, especially when it comes to reading 
-information-heavy sites. He also pointed out that the color scheme for light mode was more compatible; the light blue background complimented the bright blue buttons well. In contrast, he felt that the dark color in the dark mode design did not match the vibrancy of the buttons and in exchange, created a stark, but awkward contrast.
+> The user preferred
 
 
 ## Revisions:
 **Color Contrast**
 > While testing color contrast on my original design, I noticed that the button to background contrast was inadequate. Therefore, I took one of the color variations and modified it, so it would pass the contrast tests.
+![Failed Contrast Test](fail.png)
 > I could have also used the same design, but with a border around each box.
-![Other Option]()
+![Other Option](other.png)
 
 ## Final Design:
-![Final Design]()
+![Final Design](final.png)
 
 ## Color Contrast Check
 All of my design elements passed the recommended 4.5:1 ratio.
 
 ### Text vs. Background
-![Text vs. Background]()
+![Text vs. Background](textback.png)
 ### Button vs. Background
-![Button vs. Background]()
+![Button vs. Background](btnback.png)
 ### Button Label vs. Button
-![Button Label vs. Button]()
+![Button Label vs. Button](btn.png)
 
 
 ## Design System:
-![Design System]()
+![Design System](design.png)
 * Typeface:
   * Family: Europa
     * Header: Bold, Size 32
@@ -92,6 +92,7 @@ All of my design elements passed the recommended 4.5:1 ratio.
 ## Design Decisions:
 **Typeface:**
 > I chose 
+
 **Color Scheme:** 
 > I took inspiration from the original website, but due to color contrast, I modified to my own color preferences from there. I wanted a classy and simple look, so I went with the selected colors.
 
