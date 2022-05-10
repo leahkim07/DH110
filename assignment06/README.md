@@ -45,7 +45,8 @@ Here is the link to the [impression testing](). My participant did not feel comf
 
 ## Revisions:
 **Color Contrast**
-While testing color contrast on my original design, I noticed that the button to background contrast was inadequate. Therefore, I took one of the color variations and modified it, so it would pass the contrast tests. I could have also used the same design, but with a border around each box.
+> While testing color contrast on my original design, I noticed that the button to background contrast was inadequate. Therefore, I took one of the color variations and modified it, so it would pass the contrast tests. I could have also used the same design, but with a border around each box.
+> I conducted a brief second round of impression testing found [here]() to help choose between the options I landed on.
 ![Failed Contrast Test](fail.png)
 ![Other Option](other.png)
 
