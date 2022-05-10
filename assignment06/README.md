@@ -11,6 +11,7 @@ The goal of the project is to redesign the current website for Dolmetsch Online 
 
 ## Chosen Wireframe
 ![Landing Page](chosenwireframe.png)
+![Landing Page 2](original.png)
 
 ## Screen Design
 
