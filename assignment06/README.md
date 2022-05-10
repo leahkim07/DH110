@@ -28,7 +28,7 @@ The goal of the project is to redesign the current website for Dolmetsch Online 
 ![Color Variations](color.png)
 
 ## Impression Test:
-Here is the link to the [impression testing](). My participant did not feel comfortable being recorded, and due to it being conducted in Spanish, I opted to translate and transribe the audio recording. I gave the user 5 seconds to look at the first screen and asked for her general impression of the site. Then, I showed her the screen variations and asked her to compare it to the first screen, pointing out things she liked or disliked about each variation.
+Here is the link to the [impression testing](https://docs.google.com/document/d/1307xjscFXHnr1prwZGvhlA7D4_dW_IkSPceggIUwF5s/edit?usp=sharing). My participant did not feel comfortable being recorded, and due to it being conducted in Spanish, I opted to translate and transribe the audio recording. I gave the user 5 seconds to look at the first screen and asked for her general impression of the site. Then, I showed her the screen variations and asked her to compare it to the first screen, pointing out things she liked or disliked about each variation.
 
 ### Findings:
 **Overall Impression:**
@@ -46,7 +46,7 @@ Here is the link to the [impression testing](). My participant did not feel comf
 ## Revisions:
 **Color Contrast**
 > While testing color contrast on my original design, I noticed that the button to background contrast was inadequate. Therefore, I took one of the color variations and modified it, so it would pass the contrast tests. I could have also used the same design, but with a border around each box.
-> I conducted a brief second round of impression testing found [here]() to help choose between the options I landed on.
+> I conducted a brief second round of impression testing found [here](https://docs.google.com/document/d/1fL82GICoCVBPeAlspD23MXGGwm8ZXMJYsHzqrpSHH5c/edit?usp=sharing) to help choose between the options I landed on.
 ![Failed Contrast Test](fail.png)
 ![Other Option](other.png)
 
