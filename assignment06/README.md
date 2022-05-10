@@ -2,7 +2,7 @@
 Leah Kim | DH 110 
 
 ## Description 
-The goal of the project is to redesign the current website for Dolmetsch Online to make it more accessible and easier to use. Currently, it has failed many components of both heuristic and user testing. Therefore, through 
+The goal of the project is to redesign the current website for Dolmetsch Online to make it more accessible and easier to use. Currently, it has failed many components of both heuristic and user testing. Therefore, through contextual inquiry, personas and scenarios, and low-fidelity prototyping, I have gotten to the digitized stage of wireflows and design. I have made sure to include the features the original website was missing while keeping it simple and organized so many users can access it.
 
 ## URLS
 * [Digitized Wireflow]()
@@ -27,10 +27,8 @@ The goal of the project is to redesign the current website for Dolmetsch Online 
 ### Color Variations:
 ![Color Variations](color.png)
 
-
 ## Impression Test:
-Here is the link to the [impression testing](). For this round of testing, I gave the user 5 seconds to look at the first screen and asked for her general impression of the site. Then, I showed her the screen variations and asked her to compare it to the first screen, pointing out things she liked or disliked about each variation.
-
+Here is the link to the [impression testing](). My participant did not feel comfortable being recorded, and due to it being conducted in Spanish, I opted to translate and transribe the audio recording. I gave the user 5 seconds to look at the first screen and asked for her general impression of the site. Then, I showed her the screen variations and asked her to compare it to the first screen, pointing out things she liked or disliked about each variation.
 
 ### Findings:
 **Overall Impression:**
@@ -45,12 +43,10 @@ Here is the link to the [impression testing](). For this round of testing, I gav
 **Color Scheme:**
 > The user preferred
 
-
 ## Revisions:
 **Color Contrast**
-> While testing color contrast on my original design, I noticed that the button to background contrast was inadequate. Therefore, I took one of the color variations and modified it, so it would pass the contrast tests.
+While testing color contrast on my original design, I noticed that the button to background contrast was inadequate. Therefore, I took one of the color variations and modified it, so it would pass the contrast tests. I could have also used the same design, but with a border around each box.
 ![Failed Contrast Test](fail.png)
-> I could have also used the same design, but with a border around each box.
 ![Other Option](other.png)
 
 ## Final Design:
