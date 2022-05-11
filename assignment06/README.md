@@ -32,7 +32,7 @@ Here is the link to the [impression testing](https://docs.google.com/document/d/
 
 ### Findings:
 **Overall Impression:**
-> The user liked at least one variation for each type. She was able to figure out that this was a music website based on the image and the context of the buttons. She provided helpful suggestions and described her thoughts on the designs. She liked the overall look of the website design showed to her intiially. The participant liked the first typographic, first shape, and first and second color variations.
+> The user liked at least one variation for each type. She was able to figure out that this was a music website based on the image and the context of the buttons. She provided helpful suggestions and described her thoughts on the designs. She liked the overall look of the website design showed to her intially. The participant liked the first typographic, first shape, and first and second color variations.
 
 **Typography:**
 > The participant preferred the first font combination of the four options. She said the first option is very simple and easy to read, which is why it was chosen. She liked the minimalist look. She expressed that the last option was her least favorite, particularly because of the secondary font in the body of the frame. She said it was too bulky and distracting, making it unideal for the website. The other two options sat in between.
