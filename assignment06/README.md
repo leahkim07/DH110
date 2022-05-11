@@ -5,7 +5,7 @@ Leah Kim | DH 110
 The goal of the project is to redesign the current website for Dolmetsch Online to make it more accessible and easier to use. Currently, it has failed many components of both heuristic and user testing. Therefore, through contextual inquiry, personas and scenarios, and low-fidelity prototyping, I have gotten to the digitized stage of wireflows and design. I have made sure to include the features the original website was missing while keeping it simple and organized so many users can access it. I incorporated layout features, typography, shapes, and colors to improve the design.
 
 ## URLS
-* [Digitized Wireflow](https://www.figma.com/file/h9HHhIkJXN9FrmBs2t9uUU/DH110-Wireflow?node-id=0%3A1)
+* [Digitized Wireflow](https://www.figma.com/file/h9HHhIkJXN9FrmBs2t9uUU/DH110-Wireflow?node-id=0%3A1) (Work In Progress)
 * [Test Screens](https://www.figma.com/file/gRPsoX1IyXzslvBWcAFNdP/DH110-A06?node-id=0%3A1)
 * [Impression Test](https://docs.google.com/document/d/1307xjscFXHnr1prwZGvhlA7D4_dW_IkSPceggIUwF5s/edit?usp=sharing)
 
