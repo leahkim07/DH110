@@ -1,5 +1,5 @@
 # Assignment 7: High Fidelity Prototype
-Isaac Wen | DH 110
+Leah Kim | DH 110
 
 ## Overview
 ### Summary
