@@ -14,7 +14,7 @@ The goal of this interactive prototype is to evaluate the updated Dolmetsch Onli
 
 ## Tasks
 This interactive prototype supports 3 tasks:
-1. Going through a lesson and accessing the progress tracker
+1. Accessing the progress tracker
 2. Utilizing the filter function
 3. Creating an account and logging in
 
@@ -23,43 +23,39 @@ This interactive prototype supports 3 tasks:
 For clarity and readability, I separated the flow by task:
 
 ### Task 1 Flow:
-![Task 1 Flow](https://github.com/isaacwen01/DH110/blob/main/Assignments/A07/Task%201%20Flow.png)
+![Task 1 Flow](./task1.png)
 
 
 ### Task 2 Flow:
-![Task 2 Flow](https://github.com/isaacwen01/DH110/blob/main/Assignments/A07/Task%202%20Flow.png)
+![Task 2 Flow](./task2.png)
 
 
 ### Task 3 Flow:
-![Task 3 Flow](https://github.com/isaacwen01/DH110/blob/main/Assignments/A07/Task%203%20Flow.png)
+![Task 3 Flow](./task3.png)
 
 
 ### Full Wireflow:
-[Access Full Wireflow](https://www.figma.com/file/FiP5xIDKEKWrtnXJAAugWU/DH-110-Project?node-id=213%3A15634)
+[Access Full Wireflow](./full.png)
 
 
 ## Prototype 1:
-[Access Prototype 1](https://www.figma.com/proto/FiP5xIDKEKWrtnXJAAugWU/DH-110-Project?node-id=115%3A1046&scaling=scale-down&page-id=99%3A163&starting-point-node-id=115%3A1046)
+[Access Prototype 1](https://www.figma.com/proto/h9HHhIkJXN9FrmBs2t9uUU/DH-110-Prototype?node-id=2%3A29&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A29)
 
-For this iteration of prototyping, I actually used screen designs that resembled more of my lo-fi prototype. Key traits of this design system include 
-rectangular buttons, which aim to establish a more professional feel to the site. However, I quickly noticed some issues after conducting cognitive 
-walkthroughs and usability tests.
+For this iteration of prototyping, I mirrored my low fidelity protoype. However due to the complexity of one of my original tasks, I changed it to something that is better achievable in this prototype.
 
 
 ## Cognitive Walkthrough
 
 ### Cognitive Walkthrough:
-[Access Cognitive Walkthrough Data](https://docs.google.com/spreadsheets/d/15HXr6no3cgMHEjqRma5v7XQxy8vVqJVEQpGMI2l1gDA/edit?usp=sharing)
+[Access Cognitive Walkthrough Data]([https://docs.google.com/spreadsheets/d/15HXr6no3cgMHEjqRma5v7XQxy8vVqJVEQpGMI2l1gDA/edit?usp=sharing](https://docs.google.com/document/d/1MYY22PRkMfMwxE9CeUTI_OL67qySY0pS8TggQ4nPl-4/edit?usp=sharing))
 
-Overall, I think the cognitive walkthrough went smoothly. To my delight, my two testers were able to easily follow the intended interaction flow, easily completing the 3 proposed tasks. They appreciated the minimalist and straightforward interface design and thought most pages and buttons were clearly labeled. 
+Overall, I think the cognitive walkthrough went smoothly. My peers were able to go through the prototype and navigate the tasks as intended. They provided useful feedback that I implemented in my second iteration.
 
 However, they did point out some areas of improvement:
 
-1. On the “Permit & License Information” page, the tester indicated that she did not know what to click––the icon or the text. She assumed that the text would be clickable as well, not just the icon.
-> Proposed Revision: Adding a separate button and converting the icon into a decorative element
+1. Making the header clickable
 
-2. The tester struggled with returning to the home page and was confused by some of the back/previous buttons.
-> Proposed Revision: Making the “County of Hawai’i” icon a button that leads back to the home page
+2. Making home and back button more visible
 
 ## Prototype 2 (Revision):
 
