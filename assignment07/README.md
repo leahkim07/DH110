@@ -57,6 +57,10 @@ However, they did point out some areas of improvement:
 
 2. Making home and back button more visible
 
-## Prototype 2 (Revision):
+## Prototype 2:
 
-[Access Prototype 2](https://www.figma.com/proto/EhlCD9NtDgIPyqfIz43jyx/DH-110-Prototype-2?node-id=2%3A29&scaling=contain&page-id=0%3A1&starting-point-node-id=2%3A29)
+[Access Prototype 2.1](https://www.figma.com/proto/EhlCD9NtDgIPyqfIz43jyx/DH-110-Prototype-2?node-id=2%3A29&scaling=contain&page-id=0%3A1&starting-point-node-id=2%3A29)
+
+[Access Prototype 2.2](https://www.figma.com/proto/MTyOL78JBIzk77bvgnCnfu/DH-110-Prototype-2.2?scaling=contain&page-id=0%3A1&starting-point-node-id=2%3A29&node-id=2%3A29)
+
+Unfortunately, with this beta version of Figma, only overlays are functional causing the hover function to interfere with the click function. In the future, I hope to include this color change while hovering in my prototype. Because of this issue, I could not include this in the final prototype.
