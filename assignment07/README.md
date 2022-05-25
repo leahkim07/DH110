@@ -59,4 +59,4 @@ However, they did point out some areas of improvement:
 
 ## Prototype 2 (Revision):
 
-[Access Prototype 2](https://www.figma.com/proto/FiP5xIDKEKWrtnXJAAugWU/DH-110-Project?node-id=179%3A1110&scaling=scale-down&page-id=179%3A1087&starting-point-node-id=179%3A1110)
+[Access Prototype 2](https://www.figma.com/proto/EhlCD9NtDgIPyqfIz43jyx/DH-110-Prototype-2?node-id=2%3A29&scaling=contain&page-id=0%3A1&starting-point-node-id=2%3A29)
