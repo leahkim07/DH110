@@ -35,7 +35,7 @@ For clarity and readability, I separated the flow by task:
 
 
 ### Full Wireflow:
-[Access Full Wireflow](./full.png)
+![Access Full Wireflow](./full.png)
 
 
 ## Prototype 1:
