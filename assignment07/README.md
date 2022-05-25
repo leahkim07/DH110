@@ -47,7 +47,7 @@ For this iteration of prototyping, I mirrored my low fidelity protoype. However 
 ## Cognitive Walkthrough
 
 ### Cognitive Walkthrough:
-[Access Cognitive Walkthrough Data]([https://docs.google.com/spreadsheets/d/15HXr6no3cgMHEjqRma5v7XQxy8vVqJVEQpGMI2l1gDA/edit?usp=sharing](https://docs.google.com/document/d/1MYY22PRkMfMwxE9CeUTI_OL67qySY0pS8TggQ4nPl-4/edit?usp=sharing))
+[Access Cognitive Walkthrough Data](https://docs.google.com/document/d/1MYY22PRkMfMwxE9CeUTI_OL67qySY0pS8TggQ4nPl-4/edit?usp=sharing)
 
 Overall, I think the cognitive walkthrough went smoothly. My peers were able to go through the prototype and navigate the tasks as intended. They provided useful feedback that I implemented in my second iteration.
 
