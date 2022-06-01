@@ -43,10 +43,10 @@ The goal of usability testing (UT) is to improve a product's usability by monito
 In my pilot UT, I tested the website Dolmetsch Online for tasks that examine whether a user can find information about music theory. The user's first thoughts of the website are assessed in the pre-test questionnaire. Three tasks were created and assigned to view usability. The post-test questionnaire measures the level of user satisfaction with the tool in terms of ease, time, and chance of repeating the task. The System Usability Scale assesses a user's perception of the app's usability. The Product Satisfaction Cards indicate how they feel about the site. Google Forms was used for the testing, and I used Zoom and OBS to record the process of UT.
 
 Here is the form for the UT:
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScBISn6CuKICOY9cgtvn9f0Awm-FCvYviMPVZdiacqYAZjuyg/viewform?embedded=true" width="640" height="1783" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScBISn6CuKICOY9cgtvn9f0Awm-FCvYviMPVZdiacqYAZjuyg/viewform?embedded=true" width="640" height="1100" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 Here is the UT recording:
-<iframe src="https://drive.google.com/file/d/1ols844uaUfHel0YOAAmq5OxMa1HZXpaz/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1ols844uaUfHel0YOAAmq5OxMa1HZXpaz/preview" allow="autoplay"></iframe>
 
 Find the full usability testing [here](https://leahkim07.github.io/DH110/assignment02/assignment02.html).
 
@@ -58,7 +58,7 @@ I decided to use a combination of two methods, participatory observation and eth
 I conducted participatory observation research with my roommate who fits my target demographic. For the latter, this involved observing a music class, observing music rooms, and observing online videos about music learning.
 
 Here is the interview:
-<iframe src="https://drive.google.com/file/d/1FLDApZUg7JcjJJUnm_dLF6L6JvBt3DsN/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1FLDApZUg7JcjJJUnm_dLF6L6JvBt3DsN/preview" allow="autoplay"></iframe>
 
 Find the full contextual inquiry [here](https://leahkim07.github.io/DH110/assignment03/assignment03.html).
 
