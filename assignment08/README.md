@@ -43,12 +43,24 @@ Find the full usability testing [here](https://leahkim07.github.io/DH110/assignm
 
 ## User Research
 
-I decided to use a combination of two methods: participatory observation and interview, to understand my users better. I interviewed my sister, who is currently a high school student, and decided to read more books during quarantine, but wanted something to keep her accountable. For participatory observation, I observed 2 activities: logging a book by hand and finding a book to read in the Amazon Kindle store, also with my sister. Two interesting insights I found were that she mainly keeps track of books as a creative outlet and a way to share books with her friends. ...read more
+### Contextual Inquiry 
+
+I decided to use a combination of two methods, participatory observation and ethnographic research, to understand my users better. The preference of users would be those that are interested in music already and want to learn more or those who want to learn something new. It could also be those who already have knowledge but want to expand on it. With this, expertise of users may vary, but typically, it may be on the beginner to intermediate side.
+I conducted participatory observation research with my roommate who fits my target demographic. For the latter, this involved observing a music class, observing music rooms, and observing online videos about music learning.
+
+Find the full contextual inquiry [here](https://leahkim07.github.io/DH110/assignment03/assignment03.html).
 
 ## UX Storytelling
 
-The purpose of UX storytelling is to shift your perspective to the user's perspective and see the world how they would see it. Creating personas and their story lets you and your team share the same image of the users. Storytelling also helps filter out any biases you or your interviewees had and focus solely on the users. Thus, drawing from my user research, I came up with three personas, who interact with books differently in their lives. ...read more
+### Personas and Scenarios
 
+Researchers and designers are reminded through UX Storytelling that the experience must be user-centered. UX storytelling allows researchers to reflect on the underlying feelings and desires that users may have when completing a task and ensure that they are satisfied by the project's results by using think no longer websites based on heuristic principles and user interviews as data points. By designing personas, I was able to think more broadly about the target consumers and better understand how the current system fails to satisfy their needs.
+
+Here is an example of one of the personas:
+![Mark's persona profile](./1.png)
+![Mark's empathy map](./2.png)
+
+Find the full personas [here](https://leahkim07.github.io/DH110/assignment04/).
 	
 ## Wireframes and Interface Design
 
