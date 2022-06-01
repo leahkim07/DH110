@@ -42,9 +42,6 @@ The goal of usability testing (UT) is to improve a product's usability by monito
 
 In my pilot UT, I tested the website Dolmetsch Online for tasks that examine whether a user can find information about music theory. The user's first thoughts of the website are assessed in the pre-test questionnaire. Three tasks were created and assigned to view usability. The post-test questionnaire measures the level of user satisfaction with the tool in terms of ease, time, and chance of repeating the task. The System Usability Scale assesses a user's perception of the app's usability. The Product Satisfaction Cards indicate how they feel about the site. Google Forms was used for the testing, and I used Zoom and OBS to record the process of UT.
 
-Here is the form for the UT:
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScBISn6CuKICOY9cgtvn9f0Awm-FCvYviMPVZdiacqYAZjuyg/viewform?embedded=true" width="640" height="1100" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
 Here is the UT recording:
 <iframe src="https://drive.google.com/file/d/1ols844uaUfHel0YOAAmq5OxMa1HZXpaz/preview" allow="autoplay"></iframe>
 
@@ -114,10 +111,6 @@ While testing color contrast on my original design, I noticed that the button to
 ### Cognitive Walkthrough
 
 My peers were able to go through the prototype and navigate the tasks on my prototype as intended. They provided useful feedback that I implemented in my second iteration. However, they did point out some areas of improvement. These were making the header clickable and making the home and back buttons more visible. This was done on the revised version of the high-fidelity prototype.
-
-## Pitch video
-
-embed here
 
 ## Conclusion
 
