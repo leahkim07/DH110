@@ -4,18 +4,42 @@
 
 ## Introduction
 
-
+The goal of this course was to create a UX project that improves upon a music learning website or app for a middle-aged man to easily use and follow. Music learning has evolved over the last few years, adapting to the development of technology. What was previously only available in-person is now widespread on the internet through various learning platforms. However, finding a usable resource for certain demographics can be challenging due to the complexities or design of websites and apps. Therefore, through this project, I aimed to redesign Dolmetsch Online, a music theory website, so that my target demographic can utilize it as a learning resource.
 
 ## Design Statement
 
+** The redesigned Dolmetsch Online website serves all ages and learning levels, including middle-aged men, by providing various types of music theory lessons and interactive features that allows learning anytime and anywhere. **
+
+Based on research outlined below, I implemented 3 design features for an improved user experience:
+* **Progress Tracker:** allow for music learners to keep track of their learning and progress by mapping out important topics and including subtopics with a progress bar to see how far along they have come
+* **Filter Function:** create an extensive possibility of filter options and categorize them easily based on needs that users may have when searching for musical topics. This will allow them to easily narrow down their choices from the thousands of options available to them on the internet. Some examples of those filters are: genre of music, lesson type, sheet music, etc. 
+* **Account Function:** allow user to create a profile and log in to keep progress and customize features
 
 ## Competitor Analysis
 
 ### Heuristics Evaluation
+
+The first step in the process was to conduct a heuristic evaluation of two music-learning websites to see how they follow or do not follow Nielson's 10 Usability Heuristics Evaluation based on a severity ranking of 1 to 3, where 1 is the least severe and 3 is the most severe. The two selected websites were [Dolmetsch Online](https://www.dolmetsch.com/index.htm) and [Teoria](https://www.teoria.com).
+
+Dolmetsch Online performed poorly on 9 out of 10 of the heuristics and had high severity ratings on many of them. It is an outdated and unorganized website that is difficult to navigate even for skilled users. Teoria performed better, but it still had its issues from a heusitics standpoint. 
+
+From these two websites, they were both lacking in the following heuristic categories:
+* Visibility of system status
+* User control and freedom
+* Flexibility and efficiency of use
+
+However, they both did well with the following category:
+* Consistency and standards
+
+Find the full evaluation [here](https://leahkim07.github.io/DH110/assignment01/).
 	
 ### Usability Testing
 
-Usability testing (UT) is an important part of the user-centered design (UCD) process and helps designers assess how easy the user interfaces are to use. By getting feedback from users, you can change people's attitudes about the users and change the design and development process, and ultimately increase the website's effectiveness, efficiency, and satisfaction. In my pilot UT, I tested the website Goodreads for tasks that examine whether a user can find information about books relating to their interests. ...read more
+The goal of usability testing (UT) is to improve a product's usability by monitoring and testing consumers and collecting feedback. UT uses a heuristic evaluation to discover specific problems and then tests whether the product is effective, efficient, and satisfactory to users. UT is the best technique to analyze the participant's behaviors and thoughts while observing them navigate the product, as opposed to heuristic evaluations or other evaluation techniques.
+
+In my pilot UT, I tested the website Dolmetsch Online for tasks that examine whether a user can find information about music theory. The user's first thoughts of the website are assessed in the pre-test questionnaire. Three tasks were created and assigned to view usability. The post-test questionnaire measures the level of user satisfaction with the tool in terms of ease, time, and chance of repeating the task. The System Usability Scale assesses a user's perception of the app's usability. The Product Satisfaction Cards indicate how they feel about the site. Google Forms was used for the testing, and I used Zoom and OBS to record the process of UT.
+
+Find the full usability testing [here](https://leahkim07.github.io/DH110/assignment02/assignment02.html).
 
 ## User Research
 
