@@ -112,6 +112,10 @@ While testing color contrast on my original design, I noticed that the button to
 
 My peers were able to go through the prototype and navigate the tasks on my prototype as intended. They provided useful feedback that I implemented in my second iteration. However, they did point out some areas of improvement. These were making the header clickable and making the home and back buttons more visible. This was done on the revised version of the high-fidelity prototype.
 
+## Pitch Video
+
+Here is the [pitch video](https://drive.google.com/file/d/1g8vzbovPa67GaQqiMl6qQ2g2DxAy6zs-/view?usp=sharing).
+
 ## Conclusion
 
 Overall, I believe I was able to achieve my goal of improving upon the original Dolmetsch Online website to make it more user-friendly and tailored to my personas and scenarios. I was able to make revisions after my usability tests, and I was able to experience the process of iterative design first-hand. This was my first time conducting user research and designing a product. The need of a user-centric strategy was obvious from the start. Users are not simply considered at the end of the process. It begins with an understanding of how a survey is created and done, then moves on to understanding their wants, difficulties, and goals during the UX storytelling stage, and continues throughout the design process by considering the size of buttons and interactions between frames. I would love to recreate the process again and further my learning of UX/UI design.
