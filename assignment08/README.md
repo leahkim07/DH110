@@ -8,7 +8,7 @@ The goal of this course was to create a UX project that improves upon a music le
 
 ## Design Statement
 
-** The redesigned Dolmetsch Online website serves all ages and learning levels, including middle-aged men, by providing various types of music theory lessons and interactive features that allows learning anytime and anywhere. **
+**The redesigned Dolmetsch Online website serves all ages and learning levels, including middle-aged men, by providing various types of music theory lessons and interactive features that allows learning anytime and anywhere.**
 
 Based on research outlined below, I implemented 3 design features for an improved user experience:
 * **Progress Tracker:** allow for music learners to keep track of their learning and progress by mapping out important topics and including subtopics with a progress bar to see how far along they have come
@@ -20,6 +20,9 @@ Based on research outlined below, I implemented 3 design features for an improve
 ### Heuristics Evaluation
 
 The first step in the process was to conduct a heuristic evaluation of two music-learning websites to see how they follow or do not follow Nielson's 10 Usability Heuristics Evaluation based on a severity ranking of 1 to 3, where 1 is the least severe and 3 is the most severe. The two selected websites were [Dolmetsch Online](https://www.dolmetsch.com/index.htm) and [Teoria](https://www.teoria.com).
+
+![Dolmetsch Online Screenshot](./dolmetsch.png)
+![Teoria Screenshot](./teoria.png)
 
 Dolmetsch Online performed poorly on 9 out of 10 of the heuristics and had high severity ratings on many of them. It is an outdated and unorganized website that is difficult to navigate even for skilled users. Teoria performed better, but it still had its issues from a heusitics standpoint. 
 
@@ -38,6 +41,8 @@ Find the full evaluation [here](https://leahkim07.github.io/DH110/assignment01/)
 The goal of usability testing (UT) is to improve a product's usability by monitoring and testing consumers and collecting feedback. UT uses a heuristic evaluation to discover specific problems and then tests whether the product is effective, efficient, and satisfactory to users. UT is the best technique to analyze the participant's behaviors and thoughts while observing them navigate the product, as opposed to heuristic evaluations or other evaluation techniques.
 
 In my pilot UT, I tested the website Dolmetsch Online for tasks that examine whether a user can find information about music theory. The user's first thoughts of the website are assessed in the pre-test questionnaire. Three tasks were created and assigned to view usability. The post-test questionnaire measures the level of user satisfaction with the tool in terms of ease, time, and chance of repeating the task. The System Usability Scale assesses a user's perception of the app's usability. The Product Satisfaction Cards indicate how they feel about the site. Google Forms was used for the testing, and I used Zoom and OBS to record the process of UT.
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScBISn6CuKICOY9cgtvn9f0Awm-FCvYviMPVZdiacqYAZjuyg/viewform?embedded=true" width="640" height="1783" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 Find the full usability testing [here](https://leahkim07.github.io/DH110/assignment02/assignment02.html).
 
