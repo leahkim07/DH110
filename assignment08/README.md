@@ -81,7 +81,7 @@ Find the full personas [here](https://leahkim07.github.io/DH110/assignment04/).
 Low-fidelity prototyping is a low-cost and quick technique to create and test the contents of an artifact before committing a significant amount of time and money into its development. This helps you to collect user feedback, identify problems early on, and make adjustments within the design cycle's early stages. I can test the features of my design with users and make further modifications before working on the high-fidelity prototypes by creating low-fidelity prototypes for my project.
 
 Here is the original wireframe:
-![Wireframe](./wireframe.png)
+![Wireframe](./wireframes.jpg)
 
 Find the full low-fidelity prototype information [here](https://leahkim07.github.io/DH110/assignment05).
 
