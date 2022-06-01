@@ -114,7 +114,7 @@ My peers were able to go through the prototype and navigate the tasks on my prot
 
 ## Pitch Video
 
-Here is the [pitch video](https://drive.google.com/file/d/1g8vzbovPa67GaQqiMl6qQ2g2DxAy6zs-/view?usp=sharing).
+<iframe src="https://drive.google.com/file/d/1g8vzbovPa67GaQqiMl6qQ2g2DxAy6zs-/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## Conclusion
 
